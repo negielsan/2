@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from DNA import *
+from linepy import *
 from datetime import datetime
 from time import sleep
 from bs4 import BeautifulSoup
