@@ -21,19 +21,19 @@ import requests,urllib,json
 #ririn.log("Timeline Token : " + str(ririn.tl.channelAccessToken))
 
 #Khusus Login Token
-ririn = LINE()
+ririn = LINE('EsvvsxWTmdTJxOBYDZ03.AyYjmj1wx1XO996D9ONsaW./ukNxDEwQkk8ZlhmAc1ptMCz9ZgUfdm93ROOO49d2b8=')
 ririn.log("Auth Token : " + str(ririn.authToken))
 ririn.log("Timeline Token : " + str(ririn.tl.channelAccessToken))
 
-ki = LINE()
+ki = LINE('EsWVajXt0VbV9B77WnAd.l2coFJtn227whdvygI2TFq.OebUqhnofOMpkIfblXDQ3V2jV7TmxEdqTTmmzhyEiVA=')
 ki.log("Auth Token : " + str(ririn.authToken))
 ki.log("Timeline Token : " + str(ririn.tl.channelAccessToken))
 
-kk = LINE()
+kk = LINE('EsGLhld54oLO3oVpUz32.qo8kz2X1oHNmM76nRXf7eG.lOqt8GVKpjtHtHXSAUhXvEBgqWITEcIm/dUcFzErmoo=')
 kk.log("Auth Token : " + str(ririn.authToken))
 kk.log("Timeline Token : " + str(ririn.tl.channelAccessToken))
 
-kc = LINE()
+kc = LINE('EseqUigHksPzvaug97Y5.4P9l9oT1uVPCykUvXQ2Zrq.89RTG7N4x0woR716gabDztwMlYauPpvVBwRKSAgC4GU=')
 kc.log("Auth Token : " + str(ririn.authToken))
 kc.log("Timeline Token : " + str(ririn.tl.channelAccessToken))
 
