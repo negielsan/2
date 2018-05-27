@@ -12,7 +12,7 @@ imp.reload(sys)
 #ririn.log("Timeline Token : " + str(ririn.tl.channelAccessToken))
 
 #Khusus Login Token
-client = LINE('EtWCbvRQW79oi2rA7gNa.VcTcS2KYIZVq3v8i6kgUkG.9qmuLJW6dyHFl/oqFAMpciJ4BExjKistA34QTQLj4j4=')
+client = LINE('EtyGkTFQdkV3OS0nTe38.4o3UaDvugeX48QxwIVkfYa.mYrun12PghW47AhASFrmSDQ3BzfdqNs/AU3glxy9ybc=')
 client.log("Auth Token : " + str(client.authToken))
 client.log("Timeline Token : " + str(client.tl.channelAccessToken))
     
