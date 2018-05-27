@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 from linepy import *
+from akad.ttypes import *
 import json, time, random, tempfile, os, sys, urllib.request, urllib.parse, urllib.error, threading, codecs, datetime
 import imp
 imp.reload(sys)
